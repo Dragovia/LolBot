@@ -60,4 +60,4 @@ async def kick_error(ctx, error):
         await ctx.send('Could not recognize user')
 
 
-client.run('NTkzNTYxMTg0MjQ3MDg3MTMz.XRPq_Q.RRLvUeZZ-g8yCIBo9xrRlG9pAOg')
+client.run('')
